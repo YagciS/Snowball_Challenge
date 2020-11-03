@@ -1,0 +1,35 @@
+@media screen and (max-width: 320px) {
+    header {
+        height: 6vh;
+    }
+    .logo {
+        font-size: 13px;
+    }
+    .intro-text h1 {
+        font-size: 22px;
+    }
+    .intro-text p {
+        font-size: 14px;
+    }
+    .cta {
+        padding: 10px 0px 0px 0px;
+    }
+    .cta-select {
+        width: 100px;
+        height: 40px;
+        font-size: 13px;
+    }
+    .cta-add {
+        width: 120px;
+        height: 40px;
+        font-size: 13px;
+        margin: 10px 0px 0px 15px;
+    }
+    footer {
+        font-size: 8px;
+    }
+    tr, td {
+        padding-top: 18px;
+        font-size: 14px;
+    }
+}

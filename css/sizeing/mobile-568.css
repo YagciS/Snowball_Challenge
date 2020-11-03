@@ -1,0 +1,45 @@
+@media screen and (max-width: 568px) {
+    header {
+        height: 6vh;
+    }
+    nav {
+        display: none;
+    }
+    .hamburger {
+        display: block;
+    }
+    .presentation {
+        flex-direction: column;
+    }
+    .introduction {
+        text-align: center;
+    }
+    .intro-text h1 {
+        font-size: 28px;
+    }
+    .intro-text p {
+        font-size: 16px;
+    }
+    .cta {
+        padding: 0px 0px 0px 0px;
+    }
+    .cover {
+        height: 45vh;
+    }
+    .cover img {
+        height: 95%;
+    }
+    .big-circle {
+        opacity: 0.2;
+    }
+    .small-circle, .medium-circle {
+        display: none;
+    }
+    footer {
+        font-size: 10px;
+    }
+    tr, td {
+        padding-top: 20px;
+        font-size: 18px;
+    }
+}

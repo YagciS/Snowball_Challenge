@@ -1,0 +1,54 @@
+@media screen and (max-width: 768px) {
+    header {
+        height: 6vh;
+    }
+    nav {
+        display: none;
+    }
+    .hamburger {
+        display: block;
+    }
+    .logo {
+        font-size: 18px;
+    }
+    .nav-link {
+        font-size: 18px;
+    }
+    .presentation {
+        flex-direction: column;
+    }
+    .introduction {
+        margin-top: 3vh;
+        text-align: center;
+    }
+    .intro-text h1 {
+        font-size: 35px;
+    }
+    .intro-text p {
+        font-size: 23px;
+    }
+    .cta {
+        padding: 10px 0px 0px 0px;
+    }
+    .cta-select {
+        font-size: 18px;
+    }
+    .cta-add {
+        font-size: 18px;
+    }
+    .cover {
+        height: 50vh;
+    }
+    .cover img {
+        height: 95%;
+    }
+    .small-circle, .medium-circle, .big-circle {
+        opacity: 0.2;
+    }
+    .small-circle, .medium-circle {
+        display: none;
+    }
+    footer {
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,42 @@
+@media screen and (max-width: 1024px) {
+    .logo {
+        font-size: 22px;
+    }
+    .nav-link {
+        font-size: 22px;
+    }
+    .presentation {
+        flex-direction: column;
+    }
+    .introduction {
+        margin-top: 3vh;
+        text-align: center;
+    }
+    .intro-text h1 {
+        font-size: 40px;
+    }
+    .intro-text p {
+        font-size: 26px;
+    }
+    .cta {
+        padding: 15px 0px 0px 0px;
+    }
+    .cta-select {
+        font-size: 20px;
+    }
+    .cta-add {
+        font-size: 20px;
+    }
+    .cover {
+        height: 50vh;
+    }
+    .cover img {
+        height: 95%;
+    }
+    .small-circle, .medium-circle, .big-circle {
+        opacity: 0.2;
+    }
+    footer {
+        font-size: 18px;
+    }
+}

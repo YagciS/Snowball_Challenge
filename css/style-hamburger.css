@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+nav{
+    height: 10vh;
+    background: #5b78c7;
+}
+
+.nav-links{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    background-color: #585858;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+}
+
+.nav-links li a{
+    color: white;
+    text-decoration: none;
+    padding: 40px 50px;
+    cursor: pointer;
+    border: 2px solid #c36cbb;;
+}
+
+.nav-links{
+    flex: 1;
+}

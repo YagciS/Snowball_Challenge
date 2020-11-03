@@ -1,0 +1,5 @@
+big-circle.svg ---> http://svgicons.sparkk.fr/
+circle.svg ---> http://svgicons.sparkk.fr/
+small-circle ---> http://svgicons.sparkk.fr/
+box.png ---> Created by me (S351869)
+Hamburger_icon.svg ---> https://www.stickpng.com/img/icons-logos-emojis/menu-icons/menu-icon
